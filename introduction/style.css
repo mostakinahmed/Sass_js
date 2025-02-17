@@ -4,21 +4,17 @@
   box-sizing: border-box;
 }
 
-$color1: red;
-$color2: blue;
-$color3: green;
-
 h1 {
   font-size: 80px;
-  background-color: $color1;
+  background-color: red;
 }
 
 h2 {
   font-size: 80px;
-  background-color: $color2;
+  background-color: blue;
 }
 
 h3 {
   font-size: 80px;
-  background-color: $color3;
-}
+  background-color: green;
+}/*# sourceMappingURL=style.css.map */
